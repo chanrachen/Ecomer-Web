@@ -18,10 +18,6 @@ HTML, CSS, JQuery and Bootstrap
 
 Implemented using PHP and integrated with MySQLi database for storing data
 
-### Sliders
-
-owl.carousel.js used for creating products sliders
-
 ### Icons
 
 Font Awesome and Elegent Icons
